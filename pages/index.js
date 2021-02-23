@@ -14,14 +14,9 @@ export default function Home() {
         <h1 className={styles.title}>
           Hi, my name is Francisco Leyva
         </h1>
-
-        <p className={styles.description}>
-          Know{''} 
-          <Link href="pages\contentPages\contentMenu.js">
-          
-          </Link>
-        </p>
-
+        <p>Learn 
+          <Link href="/contentPages/contentMenu"><a> more!</a></Link> 
+          </p>
         <div className={styles.grid}>
         </div>
       </main>
