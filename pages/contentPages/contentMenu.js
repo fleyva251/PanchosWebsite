@@ -4,20 +4,17 @@ export default function ContentMenu() {
     return <div>
         <h1 id="contentMenu">
         <span class="content">
-        Read{''}
-        <Link href="/contentPages/bio"><a> my Bio!</a></Link>
+        <Link href="/contentPages/bio"><a> My bio!</a></Link>
         </span>
         <span class="content">
-        Read{''}
-        <Link href="/contentPages/skills"><a> my Skills!</a></Link>
+        <Link href="/contentPages/skills"><a> My skills!</a></Link>
         </span>
         <span class="content">
-        Read{''}
-        <Link href="/contentPages/experience"><a> my Experience!</a></Link>
+        <Link href="/contentPages/experience"><a> My experience!</a></Link>
         </span>
         </h1>
         <h2 id="contentMenuHome">
-            <Link href="/">Return Home</Link>
+           Return <Link href="/"><a id='homePageLink'>Home</a></Link>
         </h2>
         </div>
   }

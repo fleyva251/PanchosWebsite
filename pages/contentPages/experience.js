@@ -43,10 +43,10 @@ export default function Experience() {
 </li>
       </ul>
     </ul>
-    <h3>
+    <h3>Return to 
       <Link href="/contentPages/contentMenu">
-      <a>Return to menu</a>
-      </Link>
+        <a className='contentMenuLink'> menu</a>
+        </Link>
     </h3>
     </div>
       </div>

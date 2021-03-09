@@ -49,3 +49,23 @@ a {
 #applicationInfo{
   color: rgb(240, 201, 25);
 }
+#contentMenuHome{
+  padding-left: 25px;
+}
+
+#bioPara{
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+#bioPage{
+  padding-left: 25px;
+}
+#menuLink{
+  color: #0000EE;
+}
+#homePageLink{
+  color: #0000EE;
+}
+.contentMenuLink{
+  color: #0000EE;
+}

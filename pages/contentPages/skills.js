@@ -36,10 +36,10 @@ export default function Skills() {
             <li>Heroku</li>
         </ul>
     </ul>
-    <h2>
+    <h2>Return to 
       <Link href="/contentPages/contentMenu">
-      <a>Return to menu</a>
-      </Link>
+          <a className='contentMenuLink'> menu</a>
+          </Link>
     </h2>
     </div>
   }

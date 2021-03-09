@@ -15,7 +15,7 @@ export default function Home() {
           Hi, my name is Francisco Leyva
         </h1>
         <p>Learn 
-          <Link href="/contentPages/contentMenu"><a> more!</a></Link> 
+          <Link href="/contentPages/contentMenu"><a id='menuLink'> more!</a></Link> 
           </p>
         <div className={styles.grid}>
         </div>
